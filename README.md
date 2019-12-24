@@ -3,7 +3,7 @@
 The following list contains resources about the PHP language, its internals, best practices and other various topics explained.
 
 ### PHP Internals
-- [wiki.php.net/internals/references] - Excellent list with various resources, books, blog posts
+- [wiki.php.net/internals/references](http://wiki.php.net/internals/references) - Excellent list with various resources, books, blog posts
 - [www.phpinternalsbook.com](http://www.phpinternalsbook.com/) - covers both PHP 5 and PHP 7 internals
 - [phpinternals.net](https://phpinternals.net/) - a reference of internal symbols and also few articles
 - [externals.io](https://externals.io/) - the PHP #internals email list accessible online
