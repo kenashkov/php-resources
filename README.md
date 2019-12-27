@@ -17,7 +17,4 @@ The following list contains resources about the PHP language, its internals, bes
 - [blog.golemon.com](http://blog.golemon.com/) - Sara Golemon
 - [blog.jpauli.tech](http://blog.jpauli.tech/) - Julien Pauli
 
-### PHP Best practices
-- [Best Practices resource list](https://github.com/kenashkov/php-best-practices) - a list compiled by me
-
 
